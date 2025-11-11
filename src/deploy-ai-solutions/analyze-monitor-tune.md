@@ -2,6 +2,16 @@
 
 Continuous monitoring and optimization ensure AI solutions remain effective and reliable over time. This section covers tools, processes, and techniques for monitoring and tuning AI agents.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Recommend the process and tools required for monitoring agents
+* Analyze backlog and user feedback of AI and agent usage
+* Apply AI-based tools to analyze and identify issues and perform tuning
+* Monitor agent performance and metrics
+* Interpret telemetry data for performance and model tuning
+
 ## Recommend Process and Tools for Monitoring Agents
 
 ### Monitoring Requirements

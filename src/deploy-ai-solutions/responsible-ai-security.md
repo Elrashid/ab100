@@ -2,6 +2,19 @@
 
 Ensuring AI solutions are secure, compliant, and ethically sound is critical for success and sustainability. This section covers security, governance, responsible AI principles, and compliance requirements.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Design security for agents
+* Design governance for agents
+* Design model security
+* Analyze solution and AI vulnerabilities and mitigations, including prompt manipulation
+* Review solution for adherence to responsible AI principles
+* Validate data residency and movement compliance
+* Design access controls on grounding data and model tuning
+* Design audit trails for changes to models and data
+
 ## Design Security for Agents
 
 ### Security Threat Model

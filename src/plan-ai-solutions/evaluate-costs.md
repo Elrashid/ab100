@@ -2,6 +2,15 @@
 
 Understanding the financial implications of AI solutions is critical for successful implementation. This section covers ROI analysis, cost evaluation, and strategic decision-making.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Select ROI criteria for AI-powered business solutions, including the total cost of ownership
+* Create an ROI analysis for the proposed AI solution for a business process
+* Analyze whether to build, buy, or extend AI components for business solutions
+* Implement a model router to intelligently route requests to the most suitable model
+
 ## Select ROI Criteria for AI-powered Business Solutions
 
 ### Total Cost of Ownership (TCO)

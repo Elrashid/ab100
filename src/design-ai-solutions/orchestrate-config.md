@@ -2,6 +2,18 @@
 
 This section covers how to configure and orchestrate Microsoft's prebuilt AI agents across Dynamics 365, Microsoft 365, and Power Platform.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Orchestrate AI in Dynamics 365 apps for finance and supply chain
+* Orchestrate AI in Dynamics 365 apps for customer experience and service
+* Propose Microsoft 365 agents for business scenarios
+* Orchestrate the configuration of Microsoft 365 Copilot for Sales and Microsoft 365 Copilot for Service
+* Propose Microsoft Power Platform AI features, including AI hub
+* Design interoperability of the finance and operations agent chats to use additional knowledge sources
+* Recommend the process of adding knowledge sources to in-app help and guidance for Dynamics 365 Finance or Dynamics 365 Supply Chain Management apps
+
 ## Orchestrate AI in Dynamics 365 Apps for Finance and Supply Chain
 
 ### Available AI Capabilities

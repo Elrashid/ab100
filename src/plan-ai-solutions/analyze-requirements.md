@@ -2,6 +2,14 @@
 
 Understanding and analyzing requirements is the foundation of successful AI implementation. This section covers how to assess the potential for AI agents and evaluate data readiness.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Assess the use of agents in task automation, data analytics, and decision-making
+* Review data for grounding, including accuracy, relevance, timeliness, cleanliness, and availability
+* Organize business solution data to be available for other AI systems
+
 ## Assess the Use of Agents
 
 ### Task Automation

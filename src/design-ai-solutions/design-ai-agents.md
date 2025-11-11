@@ -2,6 +2,27 @@
 
 This section covers the detailed design of various AI agents and their integration with Dynamics 365 and Power Platform.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Design business terms for Copilot in Dynamics 365 apps for customer experience and service
+* Design customizations of Copilot in Dynamics 365 apps for customer experience and service
+* Design connectors for Copilot in Dynamics 365 Sales
+* Design agents for integration with Dynamics 365 Contact Center channels
+* Design task agents
+* Design autonomous agents
+* Design prompt and response agents
+* Propose Microsoft AI services for a given requirement
+* Propose code-first generative pages and the use of an agent feed for apps
+* Design topics for Copilot Studio, including fallback
+* Design data processing for AI models and grounding
+* Design a business process to include AI components in a Power Apps canvas app
+* Apply the Microsoft Power Platform Well-Architected Framework to intelligent application workloads
+* Determine when to use standard natural language processing, Azure conversational language understanding, or generative AI orchestration in Copilot Studio
+* Design agents and agent flows with Copilot Studio
+* Design prompt actions in Copilot Studio
+
 ## Design Business Terms for Copilot in Dynamics 365
 
 ### What are Business Terms?

@@ -2,6 +2,24 @@
 
 Designing a comprehensive AI strategy ensures alignment between business goals and technical implementation. This section covers strategic considerations for AI adoption and implementation.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Implement the AI adoption process from the Cloud Adoption Framework for Azure
+* Design the strategy for building AI and agents in business solutions
+* Design a multi-agent solution by using platforms such as Microsoft 365 Copilot, Copilot Studio, and Azure AI Foundry
+* Develop the use cases for prebuilt agents in the solution
+* Define the solution rules and constraints when building AI components with Copilot Studio, Azure AI services, and Azure AI Foundry
+* Determine the use of generative AI and knowledge sources in agents built with Copilot Studio
+* Determine when to build custom agents or extend Microsoft 365 Copilot
+* Determine when custom AI models should be created
+* Provide guidelines for creating a prompt library
+* Develop the use cases for customized small language models for the solution
+* Provide prompt engineering guidelines and techniques for AI-powered business solutions
+* Include the elements of the Microsoft AI Center of Excellence
+* Design AI solutions that use multiple Dynamics 365 apps
+
 ## Implement the AI Adoption Process
 
 ### Cloud Adoption Framework for Azure
