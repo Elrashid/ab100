@@ -1,4 +1,6 @@
-# Design Interoperability of the Finance and Operations Agent Chats to Use Additional Knowledge Sources
+<div style="page-break-before: always;"></div>
+
+# 2.3.6 Design Interoperability of Finance and Operations Agent Chats
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Design Agent Behaviors in Copilot Studio, Including Reasoning and Voice Mode
+<div style="page-break-before: always;"></div>
+
+# 2.2.6 Design Agent Behaviors in Copilot Studio
 
 ## Overview
 

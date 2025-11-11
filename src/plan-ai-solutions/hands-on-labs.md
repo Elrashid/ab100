@@ -1,4 +1,6 @@
-# Hands-On Labs: Plan AI Solutions
+<div style="page-break-before: always;"></div>
+
+# 1.4 Hands-On Labs: Plan AI Solutions
 
 ## Lab 1: Assess Agent Use Cases
 

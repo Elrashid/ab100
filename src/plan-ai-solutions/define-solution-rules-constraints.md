@@ -1,4 +1,6 @@
-# Define the Solution Rules and Constraints When Building AI Components
+<div style="page-break-before: always;"></div>
+
+# 1.2.5 Define Solution Rules and Constraints
 
 ## Overview
 

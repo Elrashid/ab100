@@ -1,4 +1,6 @@
-# Design Connectors for Copilot in Dynamics 365 Sales
+<div style="page-break-before: always;"></div>
+
+# 2.1.3 Design Connectors for Copilot in Dynamics 365 Sales
 
 ## Overview
 

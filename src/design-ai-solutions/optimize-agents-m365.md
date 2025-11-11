@@ -1,4 +1,6 @@
-# Optimize Solution Design by Using Agents in Microsoft 365, Including Teams and SharePoint
+<div style="page-break-before: always;"></div>
+
+# 2.2.7 Optimize Solution Design Using Agents in Microsoft 365
 
 ## Overview
 

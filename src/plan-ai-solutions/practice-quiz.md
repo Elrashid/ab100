@@ -1,4 +1,6 @@
-# Practice Quiz: Plan AI Solutions (20-25%)
+<div style="page-break-before: always;"></div>
+
+# 1.5 Practice Quiz: Plan AI Solutions (20-25%)
 
 ## Instructions
 - 25 questions covering the Plan AI Solutions domain

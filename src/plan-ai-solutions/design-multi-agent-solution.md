@@ -1,4 +1,6 @@
-# Design a Multi-Agent Solution Using Microsoft 365 Copilot, Copilot Studio, and Azure AI Foundry
+<div style="page-break-before: always;"></div>
+
+# 1.2.3 Design Multi-Agent Solutions
 
 ## Overview
 

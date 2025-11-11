@@ -1,4 +1,6 @@
-# Recommend the Process of Adding Knowledge Sources to In-App Help and Guidance for Dynamics 365 Finance or Supply Chain Management Apps
+<div style="page-break-before: always;"></div>
+
+# 2.3.7 Recommend Adding Knowledge Sources to In-App Help
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Determine the Use of Generative AI and Knowledge Sources in Agents Built with Copilot Studio
+<div style="page-break-before: always;"></div>
+
+# 1.2.6 Determine Use of Generative AI and Knowledge Sources
 
 ## Overview
 

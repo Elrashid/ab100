@@ -1,4 +1,6 @@
-# Hands-On Labs: Deploy AI Solutions
+<div style="page-break-before: always;"></div>
+
+# 3.5 Hands-On Labs: Deploy AI Solutions
 
 ## Lab 1: Implement Monitoring with Application Insights
 

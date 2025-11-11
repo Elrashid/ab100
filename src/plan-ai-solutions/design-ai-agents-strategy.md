@@ -1,4 +1,6 @@
-# Design the Strategy for Building AI and Agents in Business Solutions
+<div style="page-break-before: always;"></div>
+
+# 1.2.2 Design Strategy for Building AI and Agents
 
 ## Overview
 

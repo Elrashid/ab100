@@ -1,4 +1,6 @@
-# Hands-On Labs: Design AI Solutions
+<div style="page-break-before: always;"></div>
+
+# 2.4 Hands-On Labs: Design AI Solutions
 
 ## Lab 1: Design and Build a Copilot Studio Agent
 

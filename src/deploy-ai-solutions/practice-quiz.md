@@ -1,4 +1,6 @@
-# Practice Quiz: Deploy AI Solutions (30-35%)
+<div style="page-break-before: always;"></div>
+
+# 3.6 Practice Quiz: Deploy AI Solutions (30-35%)
 
 ## Instructions
 - 25 questions covering the Deploy AI Solutions domain

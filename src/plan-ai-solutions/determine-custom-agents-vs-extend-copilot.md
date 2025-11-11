@@ -1,4 +1,6 @@
-# Determine When to Build Custom Agents or Extend Microsoft 365 Copilot
+<div style="page-break-before: always;"></div>
+
+# 1.2.7 Determine When to Build Custom Agents or Extend Microsoft 365 Copilot
 
 ## Overview
 

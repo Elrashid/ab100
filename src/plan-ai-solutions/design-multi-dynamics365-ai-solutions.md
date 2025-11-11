@@ -1,4 +1,6 @@
-# Design AI Solutions That Use Multiple Dynamics 365 Apps
+<div style="page-break-before: always;"></div>
+
+# 1.2.13 Design AI Solutions Using Multiple Dynamics 365 Apps
 
 ## Overview
 

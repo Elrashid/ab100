@@ -1,4 +1,6 @@
-# Propose Microsoft Power Platform AI Features, Including AI Hub
+<div style="page-break-before: always;"></div>
+
+# 2.3.5 Propose Microsoft Power Platform AI Features
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Include the Elements of the Microsoft AI Center of Excellence
+<div style="page-break-before: always;"></div>
+
+# 1.2.12 Include Elements of Microsoft AI Center of Excellence
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Practice Quiz: Design AI Solutions (40-45%)
+<div style="page-break-before: always;"></div>
+
+# 2.5 Practice Quiz: Design AI Solutions (40-45%)
 
 ## Instructions
 - 35 questions covering the Design AI Solutions domain

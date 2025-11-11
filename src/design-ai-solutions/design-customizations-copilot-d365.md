@@ -1,4 +1,6 @@
-# Design Customizations of Copilot in Dynamics 365 Apps for Customer Experience and Service
+<div style="page-break-before: always;"></div>
+
+# 2.1.2 Design Customizations of Copilot in Dynamics 365
 
 ## Overview
 

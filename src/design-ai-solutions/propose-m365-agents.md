@@ -1,4 +1,6 @@
-# Propose Microsoft 365 Agents for Business Scenarios
+<div style="page-break-before: always;"></div>
+
+# 2.3.3 Propose Microsoft 365 Agents for Business Scenarios
 
 ## Overview
 

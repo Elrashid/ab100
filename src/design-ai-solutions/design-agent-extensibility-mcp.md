@@ -1,4 +1,6 @@
-# Design Agent Extensibility with Model Context Protocol in Copilot Studio
+<div style="page-break-before: always;"></div>
+
+# 2.2.4 Design Agent Extensibility with Model Context Protocol
 
 ## Overview
 

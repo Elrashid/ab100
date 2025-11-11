@@ -1,4 +1,6 @@
-# Design Business Terms for Copilot in Dynamics 365 Apps
+<div style="page-break-before: always;"></div>
+
+# 2.1.1 Design Business Terms for Copilot in Dynamics 365
 
 ## Overview
 
