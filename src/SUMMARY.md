@@ -33,6 +33,8 @@
     - [Create ROI Analysis for Proposed AI Solution](./plan-ai-solutions/create-roi-analysis.md)
     - [Analyze Whether to Build, Buy, or Extend AI Components](./plan-ai-solutions/analyze-build-buy-extend.md)
     - [Implement Model Router](./plan-ai-solutions/implement-model-router.md)
+  - [📚 Hands-On Labs](./plan-ai-solutions/hands-on-labs.md)
+  - [📝 Practice Quiz](./plan-ai-solutions/practice-quiz.md)
 
 - [Design AI-powered Business Solutions (25–30%)](./design-ai-solutions/README.md)
   - [Design AI and Agents for Business Solutions](./design-ai-solutions/design-ai-agents.md)
@@ -68,6 +70,8 @@
     - [Propose Microsoft Power Platform AI Features](./design-ai-solutions/propose-power-platform-ai-features.md)
     - [Design Interoperability of Finance and Operations Agent Chats](./design-ai-solutions/design-interop-finance-ops-agents.md)
     - [Recommend Adding Knowledge Sources to In-App Help](./design-ai-solutions/recommend-knowledge-sources-in-app-help.md)
+  - [📚 Hands-On Labs](./design-ai-solutions/hands-on-labs.md)
+  - [📝 Practice Quiz](./design-ai-solutions/practice-quiz.md)
 
 - [Deploy AI-powered Business Solutions (40–45%)](./deploy-ai-solutions/README.md)
   - [Analyze, Monitor, and Tune AI-powered Business Solutions](./deploy-ai-solutions/analyze-monitor-tune.md)
@@ -98,6 +102,8 @@
     - [Validate Data Residency and Movement Compliance](./deploy-ai-solutions/validate-data-residency-compliance.md)
     - [Design Access Controls on Grounding Data](./deploy-ai-solutions/design-access-controls-grounding-data.md)
     - [Design Audit Trails for Changes](./deploy-ai-solutions/design-audit-trails.md)
+  - [📚 Hands-On Labs](./deploy-ai-solutions/hands-on-labs.md)
+  - [📝 Practice Quiz](./deploy-ai-solutions/practice-quiz.md)
 
 # Resources
 
