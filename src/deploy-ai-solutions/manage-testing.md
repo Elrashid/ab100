@@ -2,6 +2,16 @@
 
 Testing AI solutions requires unique approaches beyond traditional software testing. This section covers testing strategies, validation criteria, and best practices for AI-powered business solutions.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Recommend the process and metrics to test agents
+* Create validation criteria of custom AI models
+* Validate effective Copilot prompt best practices
+* Design end-to-end test scenarios of AI solutions that use multiple Dynamics 365 apps
+* Build the strategy for creating test cases by using Copilot
+
 ## Recommend Process and Metrics to Test Agents
 
 ### Testing Levels

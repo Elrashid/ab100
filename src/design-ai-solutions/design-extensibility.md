@@ -2,6 +2,18 @@
 
 Extensibility ensures that AI solutions can grow and adapt to changing business needs. This section covers how to extend AI capabilities using custom models, protocols, and behaviors.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Design AI solutions by using custom models in Azure AI Foundry
+* Design agents in Microsoft 365 Copilot
+* Design agent extensibility in Copilot Studio
+* Design agent extensibility with Model Context Protocol in Copilot Studio
+* Design agents to automate tasks in apps and websites by using Computer Use in Copilot Studio
+* Design agent behaviors in Copilot Studio, including reasoning and voice mode
+* Optimize solution design by using agents in Microsoft 365, including Teams and SharePoint
+
 ## Design AI Solutions Using Custom Models in Azure AI Foundry
 
 ### Azure AI Foundry Overview

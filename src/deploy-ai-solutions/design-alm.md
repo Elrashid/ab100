@@ -2,6 +2,17 @@
 
 Application Lifecycle Management (ALM) for AI solutions requires special consideration for models, data, and AI-specific components. This section covers ALM strategies for various AI components.
 
+## Exam Objectives
+
+This section covers the following exam objectives:
+
+* Design the ALM process for data used in AI models and agents
+* Design the ALM process for Copilot Studio agents, connectors, and actions
+* Design the ALM process for Azure AI services agents
+* Design the ALM process for custom AI models
+* Design the ALM process for AI in Dynamics 365 apps for finance and supply chain
+* Design the ALM process for AI in Dynamics 365 apps for customer experience and service
+
 ## ALM Fundamentals for AI Solutions
 
 ### Traditional vs. AI ALM
