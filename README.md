@@ -16,7 +16,7 @@ Your competencies include:
 * Expertise in architecting solutions that use AI, including generative AI and various AI services tailored to meet business objectives.
 * The ability to design agentic-first solutions.
 * Skills in designing multi-agent orchestrated solutions.
-* Experienc=e designing secure and scalable cross-platform AI solutions.
+* Experience designing secure and scalable cross-platform AI solutions.
 * Comprehensive knowledge of core Dynamics 365 products, Microsoft Power Platform, Microsoft Copilot Studio, Azure AI services, and Azure OpenAI.
 * Proficiency in working with agents created by using Copilot Studio, AI prompts, Azure AI Foundry, and working knowledge of multiple language models to create intelligent solutions.
 * Proficiency in adopting frameworks and delivering measurable outcomes aligned with enterprise success metrics and architecture patterns.
