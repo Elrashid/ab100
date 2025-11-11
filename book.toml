@@ -1,0 +1,19 @@
+[book]
+title = "AB-100: Agentic AI Business Solutions Architect Study Guide"
+authors = ["AB-100 Study Team"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/Elrashid/ab100"
+edit-url-template = "https://github.com/Elrashid/ab100/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 30
